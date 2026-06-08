@@ -5,9 +5,9 @@
 <b>Tools:</b>   Photoshop, HTML, CSS, JS/jQuery, Foundation, Tumblr
 </pre>
 
-&nbsp;<strong><a href="https://killapinas.com/">View project</a></strong>
+&nbsp;<strong><a href="https://killapinas.com/" rel="noopener noreferrer">View project</a></strong>
 
-<p><a href="https://killapinas.com/"><img src="https://doylesee.github.io/killapinas/thumbnail.jpg" /></a></p>
+<p><a href="https://killapinas.com/" rel="noopener noreferrer"><img src="https://doylesee.github.io/killapinas/thumbnail.jpg" /></a></p>
 <br />
 
 ## The Challenge
@@ -62,4 +62,4 @@ Created a memorable, visually aggressive interface that perfectly balanced large
 **Zero Overhead Infrastructure**<br />
 Shipped a highly stylized web presence that requires completely zero monthly hosting costs or backend engineering upkeep for the client.
 
-<br /><strong><a href="https://killapinas.com/">View project</a></strong>
+<br /><strong><a href="https://killapinas.com/" rel="noopener noreferrer">View project</a></strong>
