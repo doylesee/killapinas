@@ -1,8 +1,8 @@
 ## Project Overview
 <pre>
-<b>Project:</b>   Killapinas
-<b>Role:</b>      Brand Identity Designer, UI/UX Designer, & Lead Web Developer
-<b>Tools:</b>     Photoshop, HTML, CSS, JS/jQuery, Foundation, Tumblr
+<b>Project:</b> Killapinas
+<b>Role:</b>    Brand Identity Designer, UI/UX Designer, & Lead Web Developer
+<b>Tools:</b>   Photoshop, HTML, CSS, JS/jQuery, Foundation, Tumblr
 </pre>
 
 &nbsp;<strong><a href="https://killapinas.com/">View project</a></strong>
