@@ -18,13 +18,13 @@ The challenge was to engineer a fully functional e-commerce storefront on Tumblr
 <br />
 
 ## Core Objectives
-**Social-to-Web Migration**<br />
+🟠 **Social-to-Web Migration**<br />
 Transition a grassroots social media sales workflow into a centralized, automated digital storefront.
 
-**High-Impact Minimalist Design**<br />
+🟠 **High-Impact Minimalist Design**<br />
 Architect a bare-bones, content-first user interface that leverages striking, screen-dominant imagery.
 
-**Custom State Management**<br />
+🟠 **Custom State Management**<br />
 Program a serverless frontend cart / checkout system directly into Tumblr’s theme files.
 
 <br />
@@ -50,16 +50,16 @@ To process orders with zero server costs, I funneled the submission form through
 <br />
 
 ## Results & Impact
-**Seamless Platform Evolution**<br />
+✅ **Seamless Platform Evolution**<br />
 Successfully moved the client from manual Facebook Marketplace interactions to an automated web platform, greatly professionalizing their retail presence.
 
-**Innovative Engineering Under Constraints**<br />
+✅ **Innovative Engineering Under Constraints**<br />
 Proved that complex backend software isn't always required to build effective e-commerce by executing a robust, database-free checkout system inside a free blogging platform.
 
-**Striking Brand Presentation**<br />
+✅ **Striking Brand Presentation**<br />
 Created a memorable, visually aggressive interface that perfectly balanced large-scale imagery with lightweight performance metrics.
 
-**Zero Overhead Infrastructure**<br />
+✅ **Zero Overhead Infrastructure**<br />
 Shipped a highly stylized web presence that requires completely zero monthly hosting costs or backend engineering upkeep for the client.
 
 <br /><strong><a href="https://killapinas.com/" rel="noopener noreferrer">View project</a></strong>
