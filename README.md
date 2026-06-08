@@ -27,6 +27,8 @@ Architect a bare-bones, content-first user interface that leverages striking, sc
 **Custom State Management**<br />
 Program a serverless frontend cart / checkout system directly into Tumblr’s theme files.
 
+<br />
+
 ## My Approach & Implementation
 ### 1. Stripped-Back, Bold UI Design
 Referencing the brand's raw, horror, and street ethos, I leaned heavily into this, plus a minimalist, product-first aesthetic in Photoshop. The structural goal was to remove all unnecessary digital noise and focus entirely on the apparel.
