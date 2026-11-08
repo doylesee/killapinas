@@ -13,6 +13,10 @@
 * [View Project](https://killapinas.com/)
 <br />
 
+<a href="https://killapinas.com">
+  <img src="screenshot.jpg" alt="" width="100%">
+</a>
+
 ## The Challenge
 Killapinas initially launched its operations through Facebook Marketplace. While this supported their early growth, the lack of a central hub limited their brand identity and forced them to manage transactions manually. They needed an official web destination that reflected their raw aesthetic without the burden of expensive enterprise web hosting or complex backend databases.
 
